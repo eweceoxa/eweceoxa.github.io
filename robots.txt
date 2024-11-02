@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eweceoxa.github.io/BmP/sitemap_index.txt
+Sitemap: https://eweceoxa.github.io/Bpe/sitemap_index.txt
+Sitemap: https://eweceoxa.github.io/XgU/sitemap_index.txt
+Sitemap: https://eweceoxa.github.io/mFk/sitemap_index.txt
